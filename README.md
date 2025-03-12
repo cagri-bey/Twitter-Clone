@@ -1,2 +1,2 @@
 # Twitter-Clone
-HTML &amp; CSS &amp; JAVASCRIPT
+HTML &amp; CSS &amp;
